@@ -66,8 +66,7 @@ This project is inspired by [Shadcn-admin](https://github.com/satnaing/shadcn-ad
   php artisan migrate
 ```
 
-4. Start the dev
-Frotnedend and Backend server
+4. Start the dev Frontend and Backend server
 - Start the Vite development server:
 
 ```bash
